@@ -110,5 +110,4 @@ document.getElementById('todo-form').addEventListener('submit', (e) => {
 });
 
 document.getElementById('check-all-btn').addEventListener('click', checkAllTodos);
-
 renderTodos();
